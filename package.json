@@ -39,7 +39,7 @@
         "@redux-offline/redux-offline": "^2.6.0",
         "@reduxjs/toolkit": "^1.4.0",
         "@sentry/browser": "^5.17.0",
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "axios-offline": "^1.5.2",
         "babel-polyfill": "^6.26.0",
         "chart.js": "2.7.3",
